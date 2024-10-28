@@ -1,0 +1,23 @@
+{
+  "name": "citizenship-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.22.14"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ethers": "^6.1.0",
+    "express": "^4.21.1",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.4.0"
+  }
+}
